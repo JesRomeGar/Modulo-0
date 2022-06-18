@@ -1,0 +1,59 @@
+body {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.list-header>h2 {
+    margin: auto;
+    padding: 20px;
+    text-align: center;
+}
+
+.selection {
+    padding: 32px;
+    border-radius: 3px;
+    border: 3px solid #dcdcdc;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 10px;
+}
+
+.hotel-name {
+    width: 300px;
+    margin: auto;
+}
+
+.responsive {
+    max-width: 50%;
+    width: 200px;
+    height: 200px;
+}
+
+.hotel-entry {
+    width: 500px;
+    text-align: justify;
+    margin: auto;
+}
+
+.telephone-number {
+    font-size: 20px;
+    margin: auto;
+}
+
+.bs {
+    max-width: 50%;
+    width: 20px;
+    height: 20px;
+}
+
+.ws {
+    max-width: 50%;
+    width: 20px;
+    height: 20px;
+}
+
+.stars {
+    margin: auto;
+    max-width: 50%;
+    width: auto;
+    height: auto;
+}
